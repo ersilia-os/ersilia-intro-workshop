@@ -26,8 +26,6 @@ The Ersilia Open Source Initiative operates as a non-profit organization, ensuri
 
 - **Reach out to our Developers & Maintainers**: Our passionate team is always ready to assist and engage in meaningful conversations.
 
-- **Contact Ersilia's Co-founders**: Drop an email to Gemma Turon at [gemma@ersilia.io](mailto:gemma@ersilia.io) or Miquel at [miquel@ersilia.io](mailto:miquel@ersilia.io). They're always eager to share more about Ersilia's vision and mission.
-
 ---
 
 Thank you for becoming a part of our journey. Together, with the power of AI, we can craft a healthier future for all! 🌍💡
