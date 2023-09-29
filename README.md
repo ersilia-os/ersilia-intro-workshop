@@ -1,6 +1,6 @@
 # Welcome to the Ersilia Model Hub Introductory Course! 🎉
 
-Hello and thank you for joining the Ersilia Model Hub Introductory Course! We're excited to introduce you to our mission and the tools we've developed to advance global health through artificial intelligence.
+Hello and thank you for joining the Ersilia Model Hub Introductory Course! We're excited to introduce you to our mission and the tools we've developed to advance global health through artificial intelligence. The first instance of this course was run at the UB-CeDD.
 
 ## About Ersilia 🌐
 
