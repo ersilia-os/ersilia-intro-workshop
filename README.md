@@ -6,7 +6,7 @@ The documentation for this course can be found [here](https://ersilia.gitbook.io
 
 ## About Ersilia 🌐
 
-Ersilia is a tehc non-profit organisation dedicated to global health challenges, with a special focus on antimicrobial drug discovery 🦠💊. Our mission is to harness the power of artificial intelligence to find new solutions to the pressing health challenges our world faces today.
+Ersilia is a tech non-profit organisation dedicated to global health challenges, with a special focus on antimicrobial drug discovery 🦠💊. Our mission is to harness the power of artificial intelligence to find new solutions to the pressing health challenges our world faces today.
 
 ## Get Started 🚀
 
