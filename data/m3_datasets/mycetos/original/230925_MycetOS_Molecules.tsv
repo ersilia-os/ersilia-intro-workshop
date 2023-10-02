@@ -1,0 +1,644 @@
+MYOS Codes	SMILES	PercGrowth_100uM	PercGrowth_25uM																																																							
+MYOS_00001_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C(OCC)=O)CC2)C3=CC=CN=C3	-0.3	19.5																																																							
+MYOS_00001_00_02	CCOC(=O)N1CCN(CC1)C(c2cccnc2)c3ccc(Cl)cc3F	0.9	1.0																																																							
+MYOS_00002_00_01	OC(c1ccc(Cl)cc1)(c2cccnc2)c3ccccc3Cl	-3.3	-3.1																																																							
+MYOS_00003_00_01	OC(c1ccc(cc1)C(F)(F)F)(c2cccnc2)c3ccc(cc3F)C#N	0.6	-2.4																																																							
+MYOS_00003_00_02	FC1=CC(C#N)=CC=C1C(C2=CC=C(C(F)(F)F)C=C2)(O)C3=CN=CC=C3	1.1	8.2																																																							
+MYOS_00004_00_01	FC(F)(F)c1ccc(cc1)N2CCN(CC2)C(=O)C(c3ccc(Cl)cc3)c4cccnc4	0.7	-1.5																																																							
+MYOS_00005_00_01	BrC1=CC=C(C(C2=CC=C(C(F)(F)F)C=C2)(O)C3=CN=CC=C3)C(F)=C1	2.0	51.1																																																							
+MYOS_00006_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)c3ccccc3)c4cccnc4	10.2	9.7																																																							
+MYOS_00007_00_01	OC(c1ccc(cc1)C(F)(F)F)(c2cccnc2)c3ccccc3F	-3.7	-4.8																																																							
+MYOS_00008_00_01	OC(c1ccc(Cl)cc1)(c2cccnc2)c3ccccc3C#N	-0.8	19.5																																																							
+MYOS_00009_00_01	ClC(C=C1)=CC=C1C(C2=CC=CC=C2Br)(OC)C3=CN=CC=C3	13.9	6.9																																																							
+MYOS_00010_00_01	FC(F)(F)c1ccc(cc1)N2CCN(CC2)C(=O)C(c3ccc(Cl)cc3)c4cccnc4	-4.0	0.5																																																							
+MYOS_00011_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C(OC(C)(C)C)=O)CC2)C3=CC=CN=C3	-0.4	49.1																																																							
+MYOS_00012_00_01	OC(C1=CC=C(Cl)C=C1)(C2=CC=CC=C2Br)C3=CN=CC=C3	7.5	11.4																																																							
+MYOS_00013_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)C(=O)C3CC3)c4cccnc4	4.8	16.9																																																							
+MYOS_00014_00_01	OC(c1ccc(Cl)cc1)(c2cccnc2)c3cccs3	-8.6	-4.0																																																							
+MYOS_00015_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C(OC)=O)CC2)C3=CC=CN=C3	5.8	10.2																																																							
+MYOS_00016_00_01	Fc1cc(Cl)ccc1C(c1cccnc1)N1CCCCC1	58.9	78.7																																																							
+MYOS_00016_00_01	Fc1cc(Cl)ccc1C(c1cccnc1)N1CCCCC1	2.5	18.0																																																							
+MYOS_00017_00_01	NC(C1=CC=C(Cl)C=C1)(C2=CC=CC=C2Br)C3=CN=CC=C3	10.2	6.3																																																							
+MYOS_00018_00_01	OC(c1ccc(cc1)C(F)(F)F)(c2ccc(cc2)C(F)(F)F)c3cc4ccccc4[nH]3	-5.7	-4.8																																																							
+MYOS_00019_00_01	OC(C1=CN=CC=C1)(C2=CC=C(C(F)(F)F)C=C2)C3=CC=C(C#N)C=C3	0.4	59.3																																																							
+MYOS_00020_01_01 	O=C(COCCN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(Cl)C=C3)O.[H]Cl.[H]Cl	47.6	74.6																																																							
+MYOS_00021_00_01	BrC1=CC=C(C(C2=CC=C(C(F)(F)F)C=C2)(O)C3=CN=CC=C3)C=C1	1.6	41.5																																																							
+MYOS_00022_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)C(=O)Nc3ccccc3)c4cccnc4	5.5	22.2																																																							
+MYOS_00023_00_01	OC(c1ccc(Cl)cc1)(c2ccc(cc2)C#N)c3cccnc3	-6.3	4.1																																																							
+MYOS_00024_00_01	Fc1cc(Cl)ccc1C(c1cccnc1)N1CCOCC1	28.1	115.5																																																							
+MYOS_00024_00_01	Fc1cc(Cl)ccc1C(c1cccnc1)N1CCOCC1	83.8	46.8																																																							
+MYOS_00025_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C3=CC=C(OC)C=C3)CC2)C4=CN=CC=C4	89.7	76.3																																																							
+MYOS_00026_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCC(O)CC2)C3=CC=CN=C3	81.4	65.7																																																							
+MYOS_00027_00_01	[H]C(C1=CC=C(Cl)C=C1)(C2=CC=CC=C2Br)C3=CN=CC=C3	5.1	28.3																																																							
+MYOS_00028_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C(OCC)=O)C(C)(C)C2)C3=CC=CN=C3	29.7	57.8																																																							
+MYOS_00029_00_01	(RR) ClC(C=C1F)=CC=C1[C@@](N2[C@H](C)CN(C(OCC)=O)CC2)([H])C3=CN=CC=C3 (SS)ClC(C=C1F)=CC=C1[C@](N2[C@@H](C)CN(C(OCC)=O)CC2)([H])C3=CN=CC=C3	13.8	15.6																																																							
+MYOS_00030_00_01	(RS) ClC(C=C1F)=CC=C1[C@](N2[C@H](C)CN(C(OCC)=O)CC2)([H])C3=CN=CC=C3 (SR) ClC(C=C1F)=CC=C1[C@@](N2[C@@H](C)CN(C(OCC)=O)CC2)([H])C3=CN=CC=C3	10.1	45.3																																																							
+MYOS_00031_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C(OCC3=CC=CC=C3)=O)CC2)C4=CC=CN=C4	59.1	20.3																																																							
+MYOS_00032_00_01	CCCCC(O)(c1ccc(Cl)cc1)c2cncnc2	-5.8	-4.8																																																							
+MYOS_00033_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCN(CCCO)CC2)C3=CC=CN=C3	108.5	102.7																																																							
+MYOS_00034_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C3=CC=NC=C3)CC2)C4=CN=CC=C4	48.4	94.8																																																							
+MYOS_00035_00_01	FC1=CC(Cl)=CC=C1C(N2CCN(C3=CC=CC=N3)CC2)C4=CN=CC=C4	79.8	70.5																																																							
+MYOS_00036_00_01	OC(c1ccc(Cl)cc1)(c2cccnc2)c3cncnc3	101.8	86.0																																																							
+MYOS_00037_00_01	Cn1cccc1C(O)(c2ccc(Cl)cc2)c3ccc(Cl)cc3	-2.1	45.5																																																							
+MYOS_00038_00_01	CCN1CCN(CC1)C(c2ccc(Cl)cc2)c3cccnc3	56.0	97.3																																																							
+MYOS_00039_00_01	Clc1ccc(cc1)C(CC2CCCCC2)(C#N)c3cnccn3	25.4	57.2																																																							
+MYOS_00040_00_01	CC(=O)NC(c1ccc(cc1)C(F)(F)F)c2cnccn2	111.3	96.6																																																							
+MYOS_00041_00_01	FC(F)(F)c1ccc(cc1)C(NS(=O)(=O)Cc2ccccc2)c3cnccn3	81.5	90.5																																																							
+MYOS_00042_00_01	OC(c1ccc(Cl)cc1)(c2cccnc2)c3cnc(Cl)s3	-2.7	97.5																																																							
+MYOS_00043_00_01	OC(c1ccc(Cl)cc1)(c2cccnc2)c3cccc(c3)C(=O)NCCN4CCOCC4	85.3	92.9																																																							
+MYOS_00044_00_01	CC(C)c1ccc(cc1)S(=O)(=O)N2CCN(CC2)C(c3ccc(Cl)cc3)c4cccnc4	55.7	68.8																																																							
+MYOS_00045_00_01	Fc1ccc(C(NC2CCN(CC2)S(=O)(=O)c3ccc(cc3)C(F)(F)F)c4cnccn4)c(F)c1	63.1	66.1																																																							
+MYOS_00046_00_01	CN(C)C(=O)N1CCC(CC1)NC(c2ccc(cc2)C(F)(F)F)c3cnccn3	80.1	85.7																																																							
+MYOS_00047_00_01	CN(C)C(=O)N1CCC(CC1)NC(c2ccc(Cl)cc2)c3cccnc3	71.1	85.3																																																							
+MYOS_00048_00_01	Clc1ccc(cc1)C(NC2CCN(CC2)C(=O)NC3CCCCC3)c4cccnc4	76.2	98.8																																																							
+MYOS_00049_00_01	CC(C)Oc1ccc(cc1)C(NC(=O)c2ccc(Cl)cc2)c3cccnc3	44.0	71.7																																																							
+MYOS_00050_00_01	CC(C)(C)OC(=O)NC1CCN(CC1)C(c2ccc(Cl)cc2)c3cncnc3	88.7	82.1																																																							
+MYOS_00051_00_01	Cc1cc([nH]n1)C(=O)NC2CCN(CC2)C(c3cncnc3)c4ccc(Cl)cc4F	10.7	81.0																																																							
+MYOS_00052_00_01	Cc1cc([nH]n1)C(=O)NC2CCN(CC2)C(c3cncnc3)c4ccc(Cl)cc4F	52.5	83.0																																																							
+MYOS_00053_00_01	Fc1cc(Cl)ccc1C(NC2CCN(CC2)C(=O)c3cscn3)c4cccnc4	60.1	85.9																																																							
+MYOS_00054_00_01	CS(=O)(=O)N1CCN(CC1)C(c2ccc(cc2)C(F)(F)F)c3cncnc3	86.9	93.0																																																							
+MYOS_00055_00_01	Cc1ncsc1C(=O)N2CCN(CC2)C(c3ccc(cc3)C#N)c4cccnc4	86.0	92.1																																																							
+MYOS_00056_00_01	O=C(NC1CCN(CC1)C(c2ccc(cc2)C#N)c3cccnc3)c4oncc4	68.1	86.0																																																							
+MYOS_00057_00_01	Cc1noc(n1)N2CCN(CC2)C(c3cncnc3)c4ccc(cc4F)C(F)(F)F	14.8	47.8																																																							
+MYOS_00058_00_01	FC(F)(F)c1ccc(cc1)C(NC2CCN(CC2)C(=O)c3ccccc3)c4cncs4	35.2	87.9																																																							
+MYOS_00059_00_01	FC(F)(F)c1ccc(cc1)C(NC2CN(C2)C(=O)c3ccccc3)c4cccnc4	66.5	71.2																																																							
+MYOS_00060_00_01	Cc1onc(C)c1C(=O)N2CCC(CC2)N(c3ccc(cc3)C(F)(F)F)c4cccnc4	83.0	87.6																																																							
+MYOS_00061_00_01	FC(F)(F)c1ccc(cc1)N(C2CCN(CC2)c3ccc(cn3)C(F)(F)F)c4cccnc4	44.4	46.1																																																							
+MYOS_00062_00_01	CC(=O)N(CC1CCN(CC1)c2ccc(cc2)C(F)(F)F)c3cccnc3	83.5	96.8																																																							
+MYOS_00063_00_01	CC(C)(O)CN1CCC(CC1)N(c2ccc(cc2)C#N)c3cccnc3	77.4	73.0																																																							
+MYOS_00064_00_01	CS(=O)(=O)c1ccc(cc1)N2CCN(CC2)C(=O)C(c3ccc(cc3)C#N)c4cccnc4	63.2	80.4																																																							
+MYOS_00065_00_01	CC(C)(C)OC(=O)N1CCN(CC1)C(=O)C(c2ccc(cc2)C#N)c3cccnc3	32.0	86.7																																																							
+MYOS_00066_00_01	Clc1ccc(cc1)C(C(=O)N2CCN(CC2)C(=O)c3ccc(Cl)cc3)c4cccnc4	92.0	69.6																																																							
+MYOS_00067_00_01	CC(C)C(=O)N1CCN(CC1)C(c2cccnc2)c3ccc(Cl)cc3F	10.7	53.4																																																							
+MYOS_00068_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)C(=O)c3ccccc3)c4cccnc4	2.1	30.8																																																							
+MYOS_00069_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)S(=O)(=O)c3ccccc3)c4cccnc4	52.5	51.9																																																							
+MYOS_00070_00_01	CS(=O)(=O)N1CCN(CC1)C(c2cccnc2)c3ccc(Cl)cc3F	83.6	78.0																																																							
+MYOS_00071_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)C(=O)Oc3ccccc3)c4cccnc4	11.5	29.9																																																							
+MYOS_00072_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)C(=O)C(F)(F)F)c3cccnc3	-1.3	86.5																																																							
+MYOS_00073_00_01	Cc1ncsc1C(=O)N2CCN(CC2)C(c3cccnc3)c4ccc(Cl)cc4F	13.6	53.5																																																							
+MYOS_00074_00_01	Cc1onc(c1)C(=O)N2CCN(CC2)C(c3cccnc3)c4ccc(Cl)cc4F	2.4	27.0																																																							
+MYOS_00037_00_02	Cn1cccc1C(O)(c2ccc(Cl)cc2)c3ccc(Cl)cc3	-5.7	-4.8																																																							
+MYOS_00076_00_01	CO\N=C(/Cc1ccccc1)\c2ccc(OC)cc2	84.6	95.9																																																							
+MYOS_00077_00_01	CO\N=C(/Cc1ccccc1C)\c2cccnc2	65.5	106.0																																																							
+MYOS_00078_00_01	CC(=O)N1CCN(CC1)C(c2ccc(Cl)cc2)c3cccnc3	85.4	98.7																																																							
+MYOS_00079_00_01	CCCCC(NCC1CCCCC1)c2cccnc2	55.3	87.2																																																							
+MYOS_00080_00_01	NC(=O)c1cccc(c1)C(O)(c2ccc(Cl)cc2)c3cccnc3	90.4	104.6																																																							
+MYOS_00081_00_01	CC(C)CCO\N=C(\Cc1cccnc1)/c2ccc(Cl)cc2Cl	-2.9	52.8																																																							
+MYOS_00082_00_01	COc1ccccc1N2CCN(CC2)C(c3ccc(cc3)C(F)(F)F)c4cnccn4	91.3	85.2																																																							
+MYOS_00083_00_01	Clc1ccc(cc1)C(CC2CCCCC2)(C#N)c3cnccn3	70.5	81.4																																																							
+MYOS_00084_00_01	CC(C)CS(=O)(=O)NC(c1ccc(cc1)C(F)(F)F)c2cnccn2	66.7	85.2																																																							
+MYOS_00085_00_01	FC(F)(F)c1ccc(cc1)C(NC(=O)c2ccc(cc2)C(F)(F)F)c3cnccn3	79.0	81.4																																																							
+MYOS_00086_00_01	COc1ccccc1N2CCN(CC2)C(c3cncnc3)c4ccc(Cl)cc4F	82.1	83.4																																																							
+MYOS_00087_00_01	CCC(=O)N1CCN(CC1)C(c2ccc(Cl)cc2)c3cncnc3	93.5	100.8																																																							
+MYOS_00088_00_01	Clc1ccc(cc1)C(N2CCN(CC2)C(=O)C3CC3)c4cncnc4	74.7	90.8																																																							
+MYOS_00089_00_01	Clc1ccc(cc1)C(N2CCN(CC2)S(=O)(=O)Cc3ccccc3)c4cncnc4	47.4	68.7																																																							
+MYOS_00090_00_01	Clc1ccc(cc1)C(N2CCN(CC2)S(=O)(=O)c3ccc(Cl)cc3)c4cncnc4	83.2	85.8																																																							
+MYOS_00091_00_01	CC(=O)NC1CCN(CC1)C(c2cnccn2)c3ccc(F)cc3F	82.3	87.3																																																							
+MYOS_00092_00_01	FC(F)(F)c1ccc(cc1)C(N2CCC(CC2)NC(=O)c3ccc(cc3)C(F)(F)F)c4cnccn4	96.9	82.4																																																							
+MYOS_00093_00_01	FC(F)(F)c1ccc(cc1)C(NC2CCN(CC2)C(=O)c3ccc(cc3)C(F)(F)F)c4cnccn4	67.3	79.5																																																							
+MYOS_00094_00_01	CC(C)(C)NC(=O)N1CCC(CC1)NC(c2ccc(Cl)cc2)c3cccnc3	84.2	87.7																																																							
+MYOS_00031_00_02	Fc1cc(Cl)ccc1C(N2CCN(CC2)C(=O)OCc3ccccc3)c4cccnc4	8.4	26.3																																																							
+MYOS_00096_00_01	CN(C)C(=O)NC1CCN(CC1)C(c2ccc(Cl)cc2)c3cccnc3	95.2	104.6																																																							
+MYOS_00050_00_02	CC(C)(C)OC(=O)NC1CCN(CC1)C(c2ccc(Cl)cc2)c3cncnc3	76.3	85.2																																																							
+MYOS_00098_00_01	FC(F)(F)c1ccc(cc1)C(NC2CCN(CC2)C(=O)c3ccccc3)c4cccnc4	44.9	83.8																																																							
+MYOS_00099_00_01	Clc1ccc(cc1)C(NC(=O)c2ccc(Cl)cc2)c3cccnc3	81.6	83.7																																																							
+MYOS_00100_00_01	Clc1ccc(cc1)C(N2CCC(CC2)NC(=O)C3CC3)c4cncnc4	73.5	77.3																																																							
+MYOS_00101_00_01	CC(C)(C)OC(=O)NC1CCN(CC1)C(c2ccc(cc2)C(F)(F)F)c3cccnc3	64.2	72.4																																																							
+MYOS_00102_00_01	CCN(CC)C(=O)N1CCC(CC1)NC(c2ccc(OC(C)C)cc2)c3cccnc3	89.1	86.1																																																							
+MYOS_00103_00_01	O=C(NC1CCN(CC1)C(c2ccc(cc2)C#N)c3cccnc3)c4ccccc4	88.2	84.2																																																							
+MYOS_00104_00_01	CS(=O)(=O)NC1CCN(CC1)C(c2cccnc2)c3ccc(Cl)cc3F	65.7	88.2																																																							
+MYOS_00105_00_01	Fc1cc(Cl)ccc1C(N2CCN(CC2)C(=O)C3CC3)c4cncnc4	73.9	89.3																																																							
+MYOS_00106_00_01	NC(=O)c1cccc(c1)C(O)(c2cccnc2)c3ccc(Cl)cc3F	-3.6	84.8																																																							
+MYOS_00107_00_01	Fc1cc(ccc1C(N2CCN(CC2)C(=O)NC3CC3)c4cncnc4)C(F)(F)F	59.6	93.1																																																							
+MYOS_00108_00_01	Cc1ncsc1C(=O)N2CCN(CC2)C(c3cccnc3)c4ccc(cc4F)C(F)(F)F	66.7	83.3																																																							
+MYOS_00109_00_01	CC(C)(C)OC(=O)N1CC(CNC(c2ccc(cc2)C(F)(F)F)c3cccnc3)C1	-4.3	75.0																																																							
+MYOS_00110_00_01	Cc1onc(C)c1C(=O)N2CCC(CC2)NC(c3ccc(cc3)C(F)(F)F)c4cncs4	85.6	89.0																																																							
+MYOS_00111_00_01	Fc1ccc(cc1)C(=O)N2CCC(CC2)N(c3ccc(cc3)C(F)(F)F)c4cccnc4	-1.2	69.6																																																							
+MYOS_00112_00_01	FC(F)(F)c1ccc(cc1)N(C2CCN(CC2)c3ccc(cc3)C(F)(F)F)c4cccnc4	87.0	86.7																																																							
+MYOS_00113_00_01	Fc1cc(Cl)ccc1C(NC2CCN(CC2)c3ccc(Cl)cc3)c4cccnc4	57.8	54.8																																																							
+MYOS_00114_00_01	Clc1ccc(cc1)C(NC2CCN(CC2)c3nccc(n3)C#N)c4cccnc4	5.5	46.7																																																							
+MYOS_00115_00_01	FC(F)(F)c1ccc(cc1)N(CC2CCN(CC2)c3ccc(Cl)cc3)c4cccnc4	80.0	81.3																																																							
+MYOS_00116_00_01	CC(C)(C)CC(=O)N(CC1CCN(CC1)c2ccc(cc2)C(F)(F)F)c3cccnc3	51.0	81.6																																																							
+MYOS_00004_00_02	FC(F)(F)c1ccc(cc1)N2CCN(CC2)C(=O)C(c3ccc(Cl)cc3)c4cccnc4	-10.9	-4.8																																																							
+MYOS_00118_00_01	CN(C)S(=O)(=O)c1cccc(c1)N2CCC(CC2)N(c3ccc(cc3)C#N)c4cccnc4	89.6	86.3																																																							
+MYOS_00119_00_01	CCC(C(C)O)N1CCC(CC1)N(c2ccc(cc2)C(F)(F)F)c3cccnc3	59.9	85.1																																																							
+MYOS_00120_00_01	FC(F)(F)c1ccc(cc1)N(C2CCN(CC2)c3ccc(nc3)C(F)(F)F)c4cncnc4	64.8	38.9																																																							
+MYOS_00066_00_02	Clc1ccc(cc1)C(C(=O)N2CCN(CC2)C(=O)c3ccc(Cl)cc3)c4cccnc4	79.2	85.3																																																							
+MYOS_00122_00_01	Clc1ccc(cc1)C(C(=O)N2CCN(CC2)c3nccs3)c4cccnc4	3.9	74.7																																																							
+MYOS_00123_00_01	FC(F)(F)c1ccccc1CN2CCN(CC2)C(=O)C(c3ccc(Cl)cc3)c4cccnc4	92.9	53.5																																																							
+MYOS_00124_00_01	Clc1ccc(cc1)C(C(=O)N2[C@H](COC2=O)c3ccccc3)c4cccnc4	85.8	88.0																																																							
+MYOS_00125_00_01	CC(C)CN1CCN(CC1)C(=O)C(c2ccc(Cl)cc2)c3cccnc3	38.9	70.9																																																							
+MYOS_00126_00_01	FC(F)(F)c1ccc(cn1)N2CCN(CC2)C(=O)C(c3ccc(cc3)C#N)c4cccnc4	89.1	92.9																																																							
+MYOS_00127_00_01	FC(F)(F)c1ccc(cn1)N2CCN(CC2)C(=O)C(c3ccc(cc3)C#N)c4cccnc4	98.4	96.9																																																							
+MYOS_00128_00_01	Clc1ccc(cc1)N(C2CCN(CC2)C(=O)c3ccccc3)c4cccnc4	-3.2	51.5																																																							
+MYOS_00129_00_01	CS(=O)(=O)N1CCC(CNC(c2ccc(cc2)C(F)(F)F)c3cnccn3)CC1	81.2	81.0																																																							
+MYOS_00130_00_01	OC(CCCC)(C1=CC=C(Br)C=C1)C2=CN=CC=C2	0.4	3.0																																																							
+MYOS_00131_00_01	BrC(C=C1)=CC=C1C(C2CCCCC2)(O)C3=CN=CC=C3	5.1	0.7																																																							
+MYOS_00132_00_01	OC1(C2=CN=CC=C2)C3=CC=CC=C3C4=C1C=CC=C4	78.1	79.2																																																							
+MYOS_00133_00_01	O-C(CCC)(C1=CC=CC=C1)C2=CN=CC=C2	5.1	-2.7																																																							
+MYOS_00134_00_01	ClC(C=C1)=CC=C1C(C2=CC=C(Br)C=C2)=O	80.0	69.0																																																							
+MYOS_00135_00_01	COCCN(C(C1=CC=C(Cl)C=C1F)C2=CN=CC=C2)CCOC	25.4	66.7																																																							
+MYOS_00136_00_01	ClC(C=C1F)=CC=C1C(N2CC3=C(C=CC=C3)CC2)C4=CN=CC=C4	17.2	11.0																																																							
+MYOS_00137_00_01	Fc1cc(Cl)ccc1C(c1cccnc1)N1CCC(F)(F)CC1	11.6	122.5																																																							
+MYOS_00010_00_02	O=C(N1CCN(C2=CC=C(C(F)(F)F)C=C2)CC1)C(C3=CC=C(Cl)C=C3)C4=CC=CN=C4	4.3	76.3																																																							
+MYOS_00139_00_01	ClC(C=C1F)=CC=C1C(N2CCC(CC2)=O)C3=CN=CC=C3	133.8	79.2																																																							
+MYOS_00140_00_01	ClC(C=C1F)=CC=C1C(N2CCN(CCN(C)C)CC2)C3=CN=CC=C3	81.5	92.0																																																							
+MYOS_00141_00_01	ClC(C=C1F)=CC=C1C(N2N=CC=C2)C3=CN=CC=C3	26.0	63.6																																																							
+MYOS_00142_00_01	ClC(C=C1F)=CC=C1C(N2N=CN=C2)C3=CN=CC=C3	83.9	111.6																																																							
+MYOS_00143_00_01	CC(C)(OC(N1CC(OC(C2=C(C=C(C=C2)Cl)F)C3=CN=CC=C3)C1)=O)C	9.6	74.2																																																							
+MYOS_00144_00_01	ClC(C=C1F)=CC=C1C(NC2=CC=CC=C2)C3=CN=CC=C3	120.6	94.5																																																							
+MYOS_00145_00_01	ClC(C=C1F)=CC=C1C(N(C)C2=CC=CC=C2)C3=CN=CC=C3	14.0	8.1																																																							
+MYOS_00001_00_03	ClC(C=C1F)=CC=C1C(N2CCN(C(OCC)=O)CC2)C3=CN=CC=C3	8.4	104.0																																																							
+MYOS_00147_00_01	ClC(C=C1F)=CC=C1C(NCC2=CC=CC=C2)C3=CN=CC=C3	4.9	7.9																																																							
+MYOS_00148_00_01	ClC(C=C1F)=CC=C1C(N(C)CC2=CC=CC=C2)C3=CN=CC=C3	5.2	6.2																																																							
+MYOS_00149_00_01	ClC(C=C1F)=CC=C1C(N2CC3CCC(C2)O3)C4=CN=CC=C4	6.2	52.3																																																							
+MYOS_00150_00_01	ClC(C=C1F)=CC=C1C(N2CCC(OC)CC2)C3=CN=CC=C3	4.0	9.7																																																							
+MYOS_00151_00_01	ClC(C=C1F)=CC=C1C(N2CCC(O)(C)CC2)C3=CN=CC=C3	2.7	77.6																																																							
+MYOS_00152_00_01	O=C(N1CCN(C(C2=CC=C(Cl)C=C2F)C3=CC=CN=C3)CC1)OC(C)(C)C																																																									
+MYOS_00153_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCN(C3=CC=CC=C3C#N)CC2)C4=CN=CC=C4																																																									
+MYOS_00154_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCN(C(C3=CC=CO3)=O)CC2)C4=CN=CC=C4																																																									
+MYOS_00155_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCN(C3=CC=CC=C3)CC2)C4=CN=CC=C4																																																									
+MYOS_00156_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCCCN(C3=NC(C(F)(F)F)=CC=N3)CC2)C4=CN=CC=C4																																																									
+MYOS_00157_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCN(C(C)=O)CC2)C3=CN=CC=C3																																																									
+MYOS_00158_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCN(C)CC2)C3=CN=CC=C3																																																									
+MYOS_00159_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCC(N([H])C(OC(C)(C)C)=O)CC2)C3=CN=CC=C3																																																									
+MYOS_00160_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCN(CC3=CC=NC=C3)CC2)C4=CN=CC=C4																																																									
+MYOS_00161_00_01	FC(C=C(Cl)C=C1)=C1C(N2CCCN(CC3=CC=C(F)C=C3)CC2)C4=CN=CC=C4																																																									
+MYOS_00162_00_01	ClC(C=C1F)=CC=C1C(N2CCN(CC3=CC=CC=C3)CC2)C4=CN=CC=C4																																																									
+MYOS_00163_00_01	OC(C1=CC=C(Cl)C=C1)(C2=CC=C(Br)C=C2)C3=CC=CC=C3	51.4	73.5																																																							
+MYOS_00164_00_01	OC(CC)(C1=CC=CC=C1)C2=CC=CC=C2	73.4	67.7																																																							
+MYOS_00165_00_01	OC1(C2=CC=CC=C2)C3=C(C=CC=C3)C4=C1C=CC=C4	5.0	83.2																																																							
+MYOS_00166_00_01	BrC(C=C1)=CC=C1C(C2=CC=CC=C2)(O)C3=CN=CC=C3	3.5	4.6																																																							
+MYOS_00167_00_01	ClC(C=C1F)=CC=C1C(C2=CC=CC=C2)(O)C3=CN=CC=C3	4.3	4.9																																																							
+MYOS_00168_00_01	OC(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CN=CC=C3	5.3	4.8																																																							
+MYOS_00169_00_01	CCC(C1=CN=CC=C1)(O)C2=CC=CC=C2	68.3	42.8																																																							
+MYOS_00170_00_01	OC(C1=CC=C(Br)C=C1)(CC2=CC=CC=C2)C3=CN=CC=C3	4.1	38.3																																																							
+MYOS_00171_00_01	OC(C1=CC=C(Cl)C=C1F)(CC2=CC=CC=C2)C3=CN=CC=C3	3.4	19.4																																																							
+MYOS_00172_00_01	OC(C1=CC=CC=C1)(CC2=CC=CC=C2)C3=CN=CC=C3	30.5	82.5																																																							
+MYOS_00173_00_01	OC(C1=CC=C(Br)C=C1F)(CC2=CC=CC=C2)C3=CN=CC=C3	32.9	67.4																																																							
+MYOS_00174_00_01	BrC1=CC=C(C(C2=CN=CC=C2)(O)C3=CC=CC=C3)C(F)=C1	2.6	7.8																																																							
+MYOS_00175_00_01	OC(C1=CC=C(Cl)C=C1)(C2=CC=C(Br)C=C2)C3=CN=CC=C3	3.9	15.7																																																							
+MYOS_00176_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC=N3)=CS2)=C1	4.3	5.0																																																							
+MYOS_00177_00_01	CC1=CC=NC(NC2=NC(C3=CC=CN=C3)=CS2)=C1	62.8	44.3																																																							
+MYOS_00178_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC=C3)=CS2)=C1	56.4	62.8																																																							
+MYOS_00179_00_01	CC1=CC=NC(NC2=NC(C3=CC=NC=C3)=CS2)=C1	36.1	51.8																																																							
+MYOS_00180_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC=C3Cl)=CS2)=C1	75.2	73.4																																																							
+MYOS_00181_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC(Cl)=C3)=CS2)=C1	43.0	77.5																																																							
+MYOS_00182_00_01	CC1=CC=NC(NC2=NC(C3=CC=C(Cl)C=C3)=CS2)=C1	43.0	65.7																																																							
+MYOS_00183_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC=C3F)=CS2)=C1	55.7	55.4																																																							
+MYOS_00184_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC(F)=C3)=CS2)=C1	73.1	63.2																																																							
+MYOS_00185_00_01	CC1=CC=NC(NC2=NC(C3=CC=C(F)C=C3)=CS2)=C1	48.6	48.5																																																							
+MYOS_00186_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC=C3OC)=CS2)=C1	10.0	36.8																																																							
+MYOS_00187_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC(OC)=C3)=CS2)=C1																																																									
+MYOS_00188_00_01	CC1=CC=NC(NC2=NC(C3=CC=C(OC)C=C3)=CS2)=C1	56.3	49.1																																																							
+MYOS_00189_00_01	FC1=C(C(N2CCNCC2)C3=CN=CC=C3)C=CC(Cl)=C1	32.4	54.3																																																							
+MYOS_00190_00_01																																																										
+FC(C=C(C=C1)Cl)=C1C(C2=CN=CC=C2)OC3CNC3	54.1																																																									
+MYOS_00191_00_01																																																										
+ClC(C=C1F)=CC=C1C(N2CCCC2)C3=CN=CC=C3	4.3	5.0	81.2																																																							
+MYOS_00192_00_01																																																										
+ClC(C=C1F)=CC=C1C(N2CCC(C#N)CC2)C3=CN=CC=C3	4.1	81.6	68.6																																																							
+MYOS_00193_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOC	6.8	5.0																																																							
+MYOS_00194_00_01	ClC1=CC=C(/C(C2=CC=CN=C2)=N\OC)C=C1	4.5	71.2																																																							
+MYOS_00195_00_01	ClC(C=C1F)=CC=C1C(N2CCC(O)CC2)C3=CN=CC=C3	61.8	62.5																																																							
+MYOS_00196_00_01	ClC(C=C1F)=CC=C1C(N2CCN(C3=CC=CN=C3)CC2)C4=CN=CC=C4	6.5	7.0																																																							
+MYOS_00197_00_01	FC1=CC(Cl)=CC=C1C(C2=CC=CN=C2)N(CC3)CCN3C4=CC(C#N)=CC=C4	51.8	7.4																																																							
+MYOS_00198_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCC	3.7	4.8																																																							
+MYOS_00199_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCC3CC3	4.6	4.6																																																							
+MYOS_00200_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCCCC	3.4	3.6																																																							
+MYOS_00201_00_01	ClC1=CC(Cl)=CC=C1C(CC2=CN=CC=C2)=NOC(C)(C)C	3.9	4.0																																																							
+MYOS_00202_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCC3=CC=CC=C3	4.8	4.6																																																							
+MYOS_00203_00_01	O=C(OCC)C1CCN(C(C2=CC=C(Cl)C=C2F)C3=CN=CC=C3)CC1	4.4	82.3																																																							
+MYOS_00204_00_01	ClC(C=C1F)=CC=C1C(NC(C=C2)=CC3=C2OCO3)C4=CN=CC=C4	6.2	10.5																																																							
+MYOS_00205_00_01	ClC(C=C1F)=CC=C1C(NCCC(C)C)C2=CN=CC=C2	6.7	33.1																																																							
+MYOS_00206_00_01	ClC(C=C1F)=CC=C1C(NCCN2CCCC2)C3=CN=CC=C3	5.6	23.8																																																							
+MYOS_00207_00_01	O=C(N1CCCCC1=O)/C=C/C2=CC=C(OC)C=C2	47.1	57.0																																																							
+MYOS_00208_00_01	O=C(N1CCCC1=O)/C=C/C2=CC=C(OC)C=C2	62.9	56.0																																																							
+MYOS_00209_00_01	O=C(N1CCCCC1=O)/C=C/C2=CC(OC)=C(OC)C(OC)=C2	51.7	46.8																																																							
+MYOS_00210_00_01	O=C(N1CCCC1=O)/C=C/C2=CC(OC)=C(OC)C(OC)=C2	64.1	60.7																																																							
+MYOS_00211_00_01	O=C(N1CCCCC1=O)/C=C/C2=CC(Cl)=C(OC)C(OC)=C2	49.3	58.7																																																							
+MYOS_00212_00_01	O=C(N1CCCC1=O)/C=C/C2=CC(Cl)=C(OC)C(OC)=C2	38.0	55.2																																																							
+MYOS_00213_00_01	O=C(N1CCCCC1=O)/C=C/C2=CC(Br)=C(OC)C(OC)=C2	58.4	50.4																																																							
+MYOS_00214_00_01	O=C(N1CCCC1=O)/C=C/C2=CC(Br)=C(OC)C(OC)=C2	52.0	65.3																																																							
+MYOS_00215_00_01	O=C(N1CCCCC1=O)/C=C/C2=CC(I)=C(OC)C(OC)=C2	26.6	44.1																																																							
+MYOS_00216_00_01	O=C(N1CCCC1=O)/C=C/C2=CC(I)=C(OC)C(OC)=C2	39.9	56.7																																																							
+MYOS_00217_00_01	OC([C@]1(C[C@@H](C(C)=C)C/C=C(C)/C)C([C@]2(C(C)(C)[C@H](C/C=C(C)/C)C1)C/C=C(C)/C)=O)=C(C(C3=CC=C(O)C(O)=C3)=O)C2=O	28.3	56.5																																																							
+MYOS_00218_00_01	O=C(C1=CC=C(O)C(O)=C1)C(C2=O)=C(OC(C)(C)[C@@H](C/C=C(C)/C)C3)[C@@]34C([C@]2(C(C)(C)[C@H](C/C=C(C)/C)C4)C/C=C(C)/C)=O	83.7	72.9																																																							
+MYOS_00219_00_01	O=C(C1=CC=C(OC)C(O)=C1)C(C2=O)=C(OC(C)(C)[C@@H](C/C=C(C)/C)C3)[C@@]34C([C@]2(C(C)(C)[C@H](C/C=C(C)/C)C4)C/C=C(C)/C)=O	58.5	66.3																																																							
+MYOS_00220_00_01	O=C(CC(/C=C/C1=CC=C(O)C(OC)=C1)=O)/C=C/C2=CC(OC)=C(O)C=C2	7.7	76.2																																																							
+MYOS_00221_00_01	O=C(/C(CN(C)C/1)=C/C2=CC=C(S(F)(F)(F)(F)F)C=C2)C1=C\C3=CC=C(S(F)(F)(F)(F)F)C=C3	81.8	79.6																																																							
+MYOS_00222_00_01	O=C(/C(CN(C(/C=C/C1=CC=CC=C1)=O)C/2)=C/C3=CC(F)=C(F)C=C3)C2=C\C4=CC=C(F)C(F)=C4	54.4	52.5																																																							
+MYOS_00223_00_01	O=C(/C(CN(C(/C=C/C1=CC=CC=C1)=O)C/2)=C/C3=C(F)C=C(F)C=C3)C2=C\C4=CC=C(F)C=C4F	46.3	47.5																																																							
+MYOS_00224_00_01	OC(C=C1)=CC=C1/C=C/C2=CC(OC)=CC(OC)=C2	7.0	80.9																																																							
+MYOS_00225_00_01	ONC(CCCCCCOC(C=C1)=CC=C1/C=C/C2=CC(OC)=CC(OC)=C2)=O	8.3	5.6																																																							
+MYOS_00226_00_01	O=C1C(O)=CC(C2=CC=CC=C21)=O	42.7	84.7																																																							
+MYOS_00227_00_01	O=C1C(OC)=CC(C2=CC=CC=C21)=O	42.5	57.5																																																							
+MYOS_00228_00_01	O=C1C(O)=C(C(C2=CC=CC=N2)NCCCCCCCCCCCCCCCC)C(C3=CC=CC=C31)=O	49.9	65.7																																																							
+MYOS_00229_00_01	O=C1C(OC(N)=C(C#N)C2C3=CC=CN=C3)=C2C(C4=CC=CC=C41)=O	78.1	68.7																																																							
+MYOS_00230_00_01	O=C1C(OC(N)=C(C#N)C2C3=CC(OC)=C(OC)C(Br)=C3)=C2C(C4=CC=CC=C41)=O	50.8	67.3																																																							
+MYOS_00231_00_01	O=C1C=CC(C2=C(O)C=CC=C21)=O	13.0	7.1																																																							
+MYOS_00232_00_01	O=C1C=CC(C2=C(O)C=CC(O)=C21)=O	13.2	7.4																																																							
+MYOS_00233_00_01	O=C1C(C)=C/C(C2=C1C=CC=C2O)=N\NC(/C=C/C3=CC=CC=C3)=O	42.5	72.2																																																							
+MYOS_00234_00_01	O=C1C(O)=C(C(C2=CC=CN=C2)N3CCN(C(OCC)=O)CC3)C(C4=CC=CC=C41)=O	76.1	54.8																																																							
+MYOS_00235_00_01	O=C1C(O)=C(C(C2=CC=CN=C2)N3CCN(C(OC(C)(C)C)=O)CC3)C(C4=CC=CC=C41)=O	80.5	79.6																																																							
+MYOS_00236_00_01	O=C1C(O)=COC(CO)=C1	89.3	81.4																																																							
+MYOS_00237_00_01	O=C1C(OC(N)=C(C#N)C2C3=CC=CN=C3)=C2OC(CO)=C1	48.3	75.6																																																							
+MYOS_00238_00_01	O=C1CC[C@@]2(C)C(CC[C@]3(C)C2CCC4[C@@]3(C)CC[C@]5(C(O)=O)C4[C@H](C(C)=C)CC5)C1(C)C	79.7	75.8																																																							
+MYOS_00239_00_01	O=C1CC[C@@]2(C)C(CC[C@]3(C)C2CCC4[C@@]3(C)CC[C@]5(C(N6C=C[N]([Ru](Cl)Cl)=C6)=O)C4[C@H](C(C)=C)CC5)C1(C)C.CC(C)c7ccc(C)cc7	71.5	81.6																																																							
+MYOS_00240_00_01	O[C@H]1CC[C@@]2(C)C(CC[C@]3(C)C2CCC4[C@@]3(C)CC[C@]5(C/N=C/C6=CC=C([N+]([O-])=O)O6)C4[C@H](C(C)=C)CC5)C1(C)C	55.9	69.9																																																							
+MYOS_00241_00_01	O[C@H]1CC[C@@]2(C)C(CC[C@]3(C)C2CCC4[C@@]3(C)CC[C@]5(C/N=C/C6=CC=C([N+]([O-])=O)S6)C4[C@H](C(C)=C)CC5)C1(C)C	67.5	80.6																																																							
+MYOS_00242_00_01	O[C@H]1CC[C@@]2(C)C(CC[C@]([C@@](CC[C@]3(C)C4C[C@@](C)(C(O)=O)CC3)(C)C4=C5)(C)C2C5=O)C1(C)C	53.5	59.9																																																							
+MYOS_00243_00_01	O[C@H]1CC[C@@]2(C)C(CC[C@]([C@@](CC[C@]3(C)C4C[C@@](C)(C(OCC5=C(F)C(F)=C(F)C(F)=C5F)=O)CC3)(C)C4=C6)(C)C2C6=O)C1(C)C	50.7	54.7																																																							
+MYOS_00244_00_01	O[C@H]1CC[C@@]2(C)C(CC[C@]([C@@](CC[C@]3(C)C4C[C@@](C)(C(OCC5=CC(C=CC=C6)=C6C=C5)=O)CC3)(C)C4=C7)(C)C2C7=O)C1(C)C	72.3	59.3																																																							
+MYOS_00245_00_01	C1(CC2=CNC3=C2C=CC=C3)=CNC4=C1C=CC=C4	5.6	7.5																																																							
+MYOS_00246_00_01	FC(C(F)=C1F)=C(F)C(F)=C1C(C2=CNC3=C2C=CC=C3)C4=CNC5=C4C=CC=C5	7.7	10.0																																																							
+MYOS_00247_00_01	BrC1=C(OC)C(OC)=CC(C2=C(C3=CC=C(OC)C(OCCCC(NO)=O)=C3)OC=N2)=C1	77.3	76.7																																																							
+MYOS_00248_00_01	BrC1=C(OC)C(OC)=CC(C2=C(C3=CC=C(OC)C(N)=C3)N(C)C=N2)=C1	46.3	43.1																																																							
+MYOS_00249_00_01	NC1=C(C#N)C(C2=CC=CC([N+]([O-])=O)=C2)C3=C(C(C=CC=C4)=C4C=C3)O1	78.5	82.5																																																							
+MYOS_00250_00_01	O=C(/C=C/C1=CC=C(OC)C(O)=C1)C2=CC(OC)=C(OC)C(OC)=C2	8.2	60.7																																																							
+MYOS_00251_00_01																																																										
+CN1C2=NC=NC(N(C)C3=CC=C(OC)C=C3)=C2N=C1	40.1																																																									
+MYOS_00252_00_01	Oc1ccc(cc1)C\3=C\Oc2cc(O)cc(O)c2C/3=O	62.7	83.4																																																							
+MYOS_00253_00_01																																																										
+O=C4c5c(O)cc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]1O[C@@H]([C@H](O)[C@H](O)[C@H]1O)C)cc5O[C@H](c3ccc(O)cc3)C4	44.8																																																									
+MYOS_00254_03_01	CC1CC(C(C(O1)OC2C(CC3(CO3)C(=O)C(C(C(C(OC(=O)C(C(C2C)OC4CC(C(C(O4)C)O)OC)C)C)C)O)C)C)O)N(C)C.OP(=O)(O)O	56.0	69.3																																																							
+MYOS_00255_00_01	O=C2c1cc(cc(O)c1C(=O)c3c2cc(O)cc3O)C	13.6	8.2																																																							
+MYOS_00256_00_01																																																										
+CC1=C(C(=C2C(=C1O)C3(C(=CC(=O)C(C3=O)C(=O)C)O2)C)C(=O)C)O	4.3																																																									
+MYOS_00257_00_01	O=C1O[C@@]52\C=C/[C@H](O)[C@]1([C@H]5[C@H](C(=O)O)[C@]43[C@H]2CC[C@@](O)(C(=C)C3)C4)C	59.6	74.8																																																							
+MYOS_00258_02_01	CC(CCC(=O)[O-])C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C.[Na+]	49.8	72.7																																																							
+MYOS_00259_02_01	CC(CCC(=O)[O-])C1CCC2C1(C(CC3C2CCC4C3(CCC(C4)O)C)O)C.[Na+]	79.7	60.8																																																							
+MYOS_00260_00_01																																																										
+COC1=C(C=C(C=C1)C=CC2=CC(=C(C(=C2)OC)OC)OC)O	50.8																																																									
+MYOS_00261_00_01																																																										
+CC1=C2C(C(C=C2C(=O)C(C13CC3)(C)O)(C)C)O	5.2	94.8	32.4																																																							
+MYOS_00262_04_01	COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O.Br	77.0	59.4																																																							
+MYOS_00263_00_01																																																										
+C[C@@H](C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC7=CNC8=CC=CC=C87)C(=O)NCCO)NC(=O)CNC(=O)[C@H](C(C)C)NC=O	104.1																																																									
+MYOS_00264_00_01																																																										
+Nc1nc(N)ncc1Cc(cc2OC)cc(OC)c2OC	65.2																																																									
+MYOS_00265_00_01	O=C1C=C(NC2=CC=CC=C2)C(C3=C1NC(C)(C)NC3=O)=O																																																									
+MYOS_00266_00_01																																																										
+ O=C4C(O)=C(NC5=CC=C(OC)C=C5)C(C6=C4C=CC=C6)=O																																																										
+MYOS_00267_00_01																																																										
+O=C7C(O)=C(NC8=CC(OCCO9)=C9C=C8)C(C%10=C7C=CC=C%10)=O																																																										
+MYOS_00268_00_01	O=C%11C(Cl)=C(NC%12=CC=CC=C%12Cl)C(C%13=C%11C=CC=C%13)=O																																																									
+MYOS_00269_00_01																																																										
+O=C%14C(OS(C(F)(F)F)(=O)=O)=C(NC%15=CC=CC=C%15)C(C%16=C%14C=CC=C%16)=O																																																										
+MYOS_00270_00_01																																																										
+O=C%17C(O)=C(C/C=C(C)/C)C(C%18=C%17C=CC=C%18)=O																																																										
+MYOS_00271_00_01	O=C%19C(O)=C(/C=C/C(C)C)C(C%20=C%19C=CC=C%20)=O																																																									
+MYOS_00272_00_01	O=C%21C(NC)=C(C/C=C(C)/C)C(C%22=C%21C=CC=C%22)=O																																																									
+MYOS_00273_00_01																																																										
+O=C%23C(OS(C)(=O)=O)=C(C/C=C(C)/C)C(C%24=C%23C=CC=C%24)=O																																																										
+MYOS_00274_00_01	O=C%25C(OS(C%26=CC=C(C)C=C%26)(=O)=O)=C(C/C=C(C)/C)C(C%27=C%25C=CC=C%27)=O																																																									
+MYOS_00275_00_01	O=C%28C%29=C(C=CC(C)(C)O%29)C(C%30=C%28C=CC=C%30)=O																																																									
+MYOS_00276_00_01																																																										
+O=C%31C%32=C(CCC(C)(C)O%32)C(C%33=C%31C=CC=C%33)=O																																																										
+MYOS_00277_00_01																																																										
+O=C(C%34=C(C%35=C%36CCC(C)(C)O%35)C=CC=C%34)C%36=O																																																										
+MYOS_00278_00_01																																																										
+O=C1C(O)=C(N2CCN(C3=CC=C(N+=O)C=C3)CC2)C(C4=CC=CC=C41)=O																																																										
+MYOS_00279_00_01																																																										
+O=C%41C(OC(C)(C#C)C)=CC(C%42=C%41C=CC=C%42)=O																																																										
+MYOS_00280_00_01	O=C%43C(N=[N+]=[N-])=C(Cl)C(C%44=C%43C=CC=C%44)=O																																																									
+MYOS_00281_00_01																																																										
+O=C%45C(Cl)=CC(C%46=C%45C=CC=C%46)=O																																																										
+MYOS_00282_00_01																																																										
+O=C(N%47CCN(C(C%48=O)=C(C(C%49=C%48C=CC=C%49)=O)OC(C)=O)CC%47)C																																																										
+MYOS_00283_00_01																																																										
+ClCCNC(C%50=O)=C(C(C%51=C%50C=CC=C%51)=O)O																																																										
+MYOS_00284_00_01	O=C%52C(O)=C(CCC(C)C)C(C%53=C%52C=CC=C%53)=O																																																									
+MYOS_00285_00_01																																																										
+O=C%54C(O)=C(NC%55=C(Cl)C=CC=C%55)C(C%56=C%54C=CC=C%56)=O																																																										
+MYOS_00286_00_01	O=C%57C(O)=C(NC%58=CC(C(F)(F)F)=CC=C%58)C(C%59=C%57C=CC=C%59)=O																																																									
+MYOS_00287_00_01	O=C%60C(O)=C(NC%61=CC=C(F)C=C%61)C(C%62=C%60C=CC=C%62)=O																																																									
+MYOS_00288_00_01																																																										
+O=C%63C(O)=C(NC%64=C(OC)C(OC)=CC=C%64)C(C%65=C%63C=CC=C%65)=O																																																										
+MYOS_00289_00_01	C=C(O%66)C(C)(C)C%67=C%66C(C%68=C(C%67=O)C=CC=C%68)=O																																																									
+MYOS_00290_00_01																																																										
+c1ccc(cc1)/C=C/CO	9.9																																																									
+MYOS_00291_00_01																																																										
+COC(=O)C=CC1=CC=CC=C1	72.7																																																									
+MYOS_00292_00_01																																																										
+O=C(OC)/C=C/C1=CC=C([N+]([O-])=O)C=C1	53.0																																																									
+MYOS_00293_00_01																																																										
+[H]C(=O)C=CC1=CC=C(C=C1)N(C)C	67.6																																																									
+MYOS_00294_00_01	O=C(O)\C=C\c1cc(O)c(O)cc1	84.8	75.7																																																							
+MYOS_00295_00_01																																																										
+O=C(O)[C@]2(O)C[C@@H](O)[C@@H](O)[C@H](OC(=O)\C=C\c1ccc(O)c(O)c1)C2	52.4																																																									
+MYOS_00296_00_01	COc1cc(ccc1O)/C=C/C(=O)O	63.7	71.6																																																							
+MYOS_00297_00_01																																																										
+Oc1ccc(cc1OC)CC=C	10.6																																																									
+MYOS_00298_00_01	CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2	51.5	66.0																																																							
+MYOS_00299_00_01	CN1C=NC2=C1C(=O)N(C(=O)N2C)C	53.0	66.2																																																							
+MYOS_00300_00_01																																																										
+O=C\1N4\C(=C/C2=C/1COC(=O)[C@]2(O)CC)c3nc5c(cc3C4)cccc5	64.8																																																									
+MYOS_00301_04_01																																																										
+Br[H].[H]O[H].[H][C@]12CCCC[C@]13CCN(C)[C@H]2Cc4ccc(OC)cc34	58.1																																																									
+MYOS_00302_00_01																																																										
+O[C@H](c1ccccc1)[C@@H](NC)C	53.1																																																									
+MYOS_00303_00_01																																																										
+O=C(N1CCCCC1)\C=C\C=C\c2ccc3OCOc3c2	16.3																																																									
+MYOS_00304_00_01																																																										
+CC=C1CC(C(C(=O)OCC2=CCN3C2C(CC3)OC1=O)(CO)O)C	50.6																																																									
+MYOS_00305_01_01																																																										
+Cl.COC(=O)[C@H]1[C@@H](O)CCC2CN3CCc4c([nH]c5ccccc45)C3CC12	56.0																																																									
+MYOS_00306_00_01	O=C1COc2c(OC1)cc(cc2)C																																																									
+MYOS_00307_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC=C3C)=CS2)=C1	77.8	94.0																																																							
+MYOS_00308_00_01	CC1=CC=NC(NC2=NC(C3=CC=CC(C)=C3)=CS2)=C1	68.2	93.8																																																							
+MYOS_00309_00_01	CC1=CC=NC(NC2=NC(C3=CC=C(C)C=C3)=CS2)=C1	55.8	92.1																																																							
+MYOS_00310_00_01	ClC(C=C1F)=CC=C1C(NCC2=CC=C(C=C2)O)C3=CN=CC=C3	6.5	5.4																																																							
+MYOS_00311_00_01	ClC(C=C1F)=CC=C1C(NCC2=CC=C(C=C2)OC)C3=CN=CC=C3	4.1	41.3																																																							
+MYOS_00312_00_01	ClC(C=C1F)=CC=C1C(C2=CN=CC=C2)N3CCN(CC3)CC	68.1	76.7																																																							
+MYOS_00313_00_01	FC1=CC=CC=C1N2CCN(C(C3=CN=CC=C3)C4=CC=C(Cl)C=C4F)CC2	47.8	38.3																																																							
+MYOS_00314_00_01	FC(C1=CC=CC=C1N2CCN(C(C3=CC=C(Cl)C=C3F)C4=CC=CN=C4)CC2)(F)F	67.5	69.8																																																							
+MYOS_00315_00_01	FC1=CC=C(C=C1)NC2=NC(C3=CC=CC=N3)=CS2	5.3	4.9																																																							
+MYOS_00316_00_01	FC(C1=CC=C(C=C1)NC2=NC(C3=CC=CC=N3)=CS2)(F)F	44.9	46.7																																																							
+MYOS_00317_00_01	FC(C1=CC=CC(NC2=NC(C3=CC=CC=N3)=CS2)=C1)(F)F	6.1	3.7																																																							
+MYOS_00318_00_01	ClC1=C(C(F)(F)F)C=C(C=C1)NC2=NC(C3=CC=CC=N3)=CS2	69.2	42.6																																																							
+MYOS_00319_00_01	ClC1=CC=C(C(F)(F)F)C=C1NC2=NC(C3=CC=CC=N3)=CS2	106.4	93.0																																																							
+MYOS_00320_00_01	C1(C2=CSC(NC3=CC4=C(OCO4)C=C3)=N2)=CC=CC=N1	9.3	86.9																																																							
+MYOS_00321_00_01																																																										
+ClC(C=C1F)=CC=C1C(N2CCC3=C2C=CC=C3)C4=CN=CC=C4	3.5	78.5	50.0																																																							
+MYOS_00322_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NO	35.7	83.0																																																							
+MYOS_00323_00_01	CON=C(C1=CC=CC=C1)CC2=CC=CC=C2	63.3	66.0																																																							
+MYOS_00324_00_01																																																										
+COC1=CC=C(CC(C2=CC=C(OC)C=C2)=NOC)C=C1	39.3																																																									
+MYOS_00325_00_01																																																										
+ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCCN3CCCC3	45.8																																																									
+MYOS_00326_00_01	O=C(CC1=CC=CC(Cl)=C1)NC2=NC3=CC(Cl)=CC=C3O2	8.3	6.1																																																							
+MYOS_00327_00_01	O=C(CC1=CC=CN=C1)NC2=NC3=C(O2)C=CC(Cl)=C3	5.1	88.9																																																							
+MYOS_00328_00_01	O=C(CC1=CC=C(Br)C=C1)NC2=NC3=CC(Cl)=CC=C3O2	9.4	6.1																																																							
+MYOS_00329_00_01	ClC1=CC=C2OC(NC(CC3CCCCC3)=O)=NC2=C1	74.0	72.5																																																							
+MYOS_00330_00_01	O=C(CC1=CC(C)=CC=C1)NC2=NC3=CC(Cl)=CC=C3O2	8.9	5.5																																																							
+MYOS_00331_00_01	O=C(NC1=NC2=CC(Br)=CC=C2O1)CC3=CC=C(C(F)(F)F)C=C3	7.0	6.4																																																							
+MYOS_00332_00_01	O=C([C@@H](C)C1=CC=CC=C1)NC2=NC3=CC(Cl)=CC=C3O2	9.6	4.7																																																							
+MYOS_00333_00_01	O=C(CC1=CC=CC(Cl)=C1)NC2=NC3=CC(Br)=CC=C3O2	10.3	4.6																																																							
+MYOS_00334_00_01	O=C(CC1=CC=CC(Br)=C1)NC2=NC3=CC(Br)=CC=C3O2	9.7	6.5																																																							
+MYOS_00335_00_01	O=C(CC1=CC=C(Br)C=C1)NC2=NC3=CC(Br)=CC=C3O2	10.3	5.9																																																							
+MYOS_00336_00_01	O=C(NC1=NC2=CC(Br)=CC=C2O1)CC3=CC=C(C(C)(C)C)C=C3	28.4	71.2																																																							
+MYOS_00337_00_01	O=C(CC1=CC=CC(C)=C1)NC2=NC3=CC(Br)=CC=C3O2	8.7	7.1																																																							
+MYOS_00338_00_01	O=C(NC1=NC2=CC(Br)=CC=C2O1)CC3CCCCC3	52.4	78.1																																																							
+MYOS_00339_00_01	O=C(NC1=NC2=CC(Cl)=CC=C2O1)CC3=CC=C(C)C=C3	10.5	4.5																																																							
+MYOS_00340_00_01	O=C(NC1=NC2=CC(Br)=CC=C2O1)CC3=CC=CC(C(F)(F)F)=C3	7.6	5.0																																																							
+MYOS_00341_00_01	O=C([C@@H](C)C1=CC=CC=C1)NC2=NC3=CC(Br)=CC=C3O2	6.6	4.3																																																							
+MYOS_00342_00_01	O=C1OCCCCCC/C=C/CCCCCCC1	72.8	36.7																																																							
+MYOS_00343_00_01	CC1=CC[C@@H](C(CC/C=C(C)/C)=C)CC1	17.4	11.1																																																							
+MYOS_00344_00_01	O=CCC/C=C1CC2C3C(CCC3)C\1C2	22.4	21.5																																																							
+MYOS_00345_00_01	CC1=CCC(/C=C/C(C)C(O)C)C1(C)C	39.9	18.9																																																							
+MYOS_00346_00_01	CC1=C(C(OCC)=O)C(C)(C)CC=C1	14.6	7.2																																																							
+MYOS_00347_00_01	CC(C)C1=CC(C(C)CC=O)=CC=C1	14.6	5.2																																																							
+MYOS_00348_00_01	CCC(OC1CC2C3C(C=CC3)C1C2)=O	11.9	6.1																																																							
+MYOS_00349_00_01	CC1(C)[C@]23CC[C@@H](C3)C(C)(C)[C@@]2(O4)C4CC1	14.0	40.9																																																							
+MYOS_00350_00_01	CC1(C)C(C(OCC)=O)=C(CC)C=CC1	12.3	4.9																																																							
+MYOS_00351_00_01	CC1=C[C@H]2C(C(C)C)C[C@@H]1C[C@H]2C3OCCO3	17.9	12.2																																																							
+MYOS_00352_00_01	O=C1C2[C@](CC[C@@H]3C2(C)C)(C3)C(C)(C)CC1	13.9	5.7																																																							
+MYOS_00353_00_01	CC1=C(C/C=C\CC)C(CC1)=O	23.6	5.2																																																							
+MYOS_00354_00_01	CC1(C)[C@@](C)(C2)C2C[C@@H]1CC3C(C)(CO)C3	38.3	14.6																																																							
+MYOS_00355_00_01	CC1(C)C2=C(C=CC(C3(OC(C)CO3)C)=C2)C(C)(C)CC1	16.7	7.5																																																							
+MYOS_00356_00_01	CC1=CCCC2(C)C1(C)CCC(C)C2OC=O	40.2	16.5																																																							
+MYOS_00357_00_01	CC1=C(C=O)C(C)(C)CC=C1	19.4	6.0																																																							
+MYOS_00358_00_01	CC(C)CC1=CC=C(CC(C)C=O)C=C1	13.9	17.5																																																							
+MYOS_00359_00_01	CC1C2(COC(C)(C)OC2)C3C(C3(C)C)CC1	15.6	5.9																																																							
+MYOS_00360_00_01	O=C(CCC=C)C1=CCCC2(CCCC2)C1	18.3	8.2																																																							
+MYOS_00361_00_01	CC1=C(/C=C/C)C=C(C(C)C)C=C1	16.0	5.4																																																							
+MYOS_00362_00_01	C[C@@]12CCC3C(C)(C)CC3[C@](OC(C)=O)(C2)CCC1	21.2	9.7																																																							
+MYOS_00363_00_01	OC1=CC=C(/C=C/C)C=C1OC	85.0	34.2																																																							
+MYOS_00364_00_01	OC1=C(OC)C=CC=C1CC=C	57.8	30.3																																																							
+MYOS_00365_00_01	C=CCC1=CC=C(OC)C=C1	17.7	6.0																																																							
+MYOS_00366_00_01	C=CCC1=CC=C(OC)C(OC)=C1	12.1	4.3																																																							
+MYOS_00367_00_01	C=CCC1=CC=C(OCC=C)C(OC)=C1	21.9	11.4																																																							
+MYOS_00368_00_01	C=CCC1=CC=C(OCC#C)C(OC)=C1	16.5	26.0																																																							
+MYOS_00369_00_01	OC1=CC=C(CC=C)C=C1C2=CC(CC=C)=CC=C2O	25.3	12.7																																																							
+MYOS_00370_00_01	C=CCC1=C(O)C=CC(C2=CC(CC=C)=CC=C2O)=C1	29.0	19.1																																																							
+MYOS_00371_00_01	N#C/C=C/C1=CC=CC=C1	10.7	6.1																																																							
+MYOS_00372_00_01	OC1=CC=C(/C=C/[C@@](C=C)(C)CC/C=C(C)/C)C=C1	36.4	18.5																																																							
+MYOS_00373_00_01	ClC1=CC=CC=C1C(C2=CC=CC=C2)(C3=CC=CC=C3)N4C=NC=C4	24.5	16.5																																																							
+MYOS_00374_00_01	C1(C(N2C=CN=C2)C3=CC=CC=C3)=CC=C(C4=CC=CC=C4)C=C1	41.5	25.5																																																							
+MYOS_00375_00_01	ClC1=CC=C(OC(C(C(C)(C)C)=O)N2C=CN=C2)C=C1	21.8	9.4																																																							
+MYOS_00376_00_01	OC(P(O)(O)=O)(CN1C=NC=C1)P(O)(O)=O.O	31.1	12.9																																																							
+MYOS_00377_00_01	O=C1C=CC(C2=CC=CC=C21)=O	11.7	7.0																																																							
+MYOS_00378_00_01	O=C(C1=CC=CC=C1C=C2)C2=O	19.2	11.5																																																							
+MYOS_00379_00_01	O=C1C(C)=CC(C2=C(O)C=CC=C21)=O	7.2	5.6																																																							
+MYOS_00380_00_01	O=C1C2=C(C(O)=CC=C2O)C(C3=C1C=CC=C3)=O	79.6	47.5																																																							
+MYOS_00381_00_01	FC(C(C=C1)=CC=C1CNC2=C(C3CC3)C(C4=NC=CC=C4)=NN2)(F)F	63.0	47.9																																																							
+MYOS_00382_00_01	O=C1C(O)=C(CC2CCC(C(C)(C)C)CC2)C(C3=CC=CC=C31)=O	14.9	63.8																																																							
+MYOS_00383_00_01	Cl[Pt]Cl.C\1=C\CC/C=C\CC/1	76.3	114.2																																																							
+MYOS_00384_01_01	ClC1=CC=C(SC(C=CC=C2)=C2N3CCCN(C)C)C3=C1.Cl	10.2	8.0																																																							
+MYOS_00385_01_01	NC1=CC2=[S+]C3=CC(N)=CC=C3N=C2C=C1.[Cl-]	20.3	28.7																																																							
+MYOS_00386_01_01	CN(C)C1=CC2=[S+]C3=CC(N(C)C)=CC=C3N=C2C=C1.[Cl-]	21.6	16.8																																																							
+MYOS_00387_00_01	C1=C(CSCCN/C(NC)=N/C#N)N=CN1	148.6	95.9																																																							
+MYOS_00388_00_01	OC1=CC2=CC=CC=C2C=C1C(N/N=C/C3=CC(O)=C(O)C=C3)=O.CCO	45.9	100.3																																																							
+MYOS_00389_00_01	O=C(N/N=C/C1=CC(OC)=C(O)C(I)=C1)C2=CC=CC(F)=C2	137.4	192.1																																																							
+MYOS_00390_00_01	COc1ccccc1CC(=O)Nc2oc3ccc(Cl)cc3n2	37.5	27.7																																																							
+MYOS_00391_00_01																																																										
+COc1ccccc1CC(=O)Nc2oc3ccc(Br)cc3n2	33.2																																																									
+MYOS_00392_00_01	Brc1ccc2nc(NC(=O)Cc3ccccc3)oc2c1	7.7	4.1																																																							
+MYOS_00393_00_01	Brc1ccc2nc(NC(=O)C3CCCCC3)oc2c1	19.9	4.4																																																							
+MYOS_00394_00_01	Clc1ccc2oc(NC(=O)C3CCCC3)nc2c1	5.0	65.4																																																							
+MYOS_00395_00_01	Brc1ccc2oc(NC(=O)C3CCCC3)nc2c1	4.3	63.8																																																							
+MYOS_00396_00_01	Clc1ccc2nc(NC(=O)C3CCCCC3)oc2c1	4.0	3.0																																																							
+MYOS_00397_00_01	Clc1ccc(CC(=O)Nc2oc3ccc(Br)cc3n2)cc1	5.0	13.9																																																							
+MYOS_00398_00_01	CC(C1=CC=CC=C1)C(NC2=NC3=CC=C(Cl)C=C3O2)=O	4.1	3.7																																																							
+MYOS_00399_00_01	CC(C1=CC=CC=C1)C(NC2=NC3=CC=C(Br)C=C3O2)=O	13.1	2.4																																																							
+MYOS_00400_00_01	Clc1ccc2nc(NC(=O)C3CCOCC3)oc2c1	69.1	64.4																																																							
+MYOS_00401_00_01	Brc1ccc2nc(NC(=O)C3CCOCC3)oc2c1	42.9	74.6																																																							
+MYOS_00402_00_01	Clc1ccc2oc(NC(=O)C3CCCCC3)nc2c1	4.9	36.5																																																							
+MYOS_00403_00_01	Brc1ccc2oc(NC(=O)Cc3ccccc3)nc2c1	7.6	4.0																																																							
+MYOS_00404_00_01	COc1cccc(CC(=O)Nc2oc3ccc(Cl)cc3n2)c1	32.7	2.6																																																							
+MYOS_00405_00_01	COc1cccc(CC(=O)Nc2oc3ccc(Br)cc3n2)c1	4.5	1.1																																																							
+MYOS_00406_00_01	Clc1ccc2oc(NC(=O)C(c3ccccc3)c4ccccc4)nc2c1	74.3	59.7																																																							
+MYOS_00407_00_01	O=C(N1CCCCC1=O)/C=C/C2=CC(OC)=C(OC)C=C2	63.4	83.5																																																							
+MYOS_00408_00_01	O=C(N1CCCC1=O)/C=C/C2=CC(OC)=C(OC)C=C2	85.1	75.0																																																							
+MYOS_00409_00_01	BrC1=C(OC)C=CC(/C=C/C(N2CCCCC2=O)=O)=C1	37.6	64.5																																																							
+MYOS_00410_00_01	BrC1=C(OC)C=CC(/C=C/C(N2CCCC2=O)=O)=C1	77.5	76.1																																																							
+MYOS_00411_00_01	BrC1=C(OC)C(Br)=CC(/C=C/C(N2CCCCC2=O)=O)=C1	60.5	62.1																																																							
+MYOS_00412_00_01	BrC1=C(OC)C(Br)=CC(/C=C/C(N2CCCC2=O)=O)=C1	62.9	66.1																																																							
+MYOS_00413_00_01	IC1=C(OC)C(I)=CC(/C=C/C(N2CCCCC2=O)=O)=C1	67.7	65.5																																																							
+MYOS_00414_00_01	IC1=C(OC)C(I)=CC(/C=C/C(N2CCCC2=O)=O)=C1	71.0	73.0																																																							
+MYOS_00415_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCCN3CCCCC3																																																									
+MYOS_00416_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCCN(C)C																																																									
+MYOS_00417_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCCC																																																									
+MYOS_00418_00_01																																																										
+ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCCN3CCCCCC3																																																										
+MYOS_00419_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=CN=CC=C2)=NOCCN3CCOCC3																																																									
+MYOS_00420_00_01	CC1=CC(NC2=NC(C3=CC=CC=N3)=CS2)=CC=C1																																																									
+MYOS_00421_00_01	FC(F)(C1=CC(NC2=NC(C3=CC=CC=N3)=CS2)=NC=C1)F	16.9	12.9																																																							
+MYOS_00422_00_01	COC1=CC=CC(NC2=NC(C3=CC=CC=N3)=CS2)=N1	17.8	14.6																																																							
+MYOS_00423_00_01	COC1=CC(NC2=NC(C3=CC=CC=N3)=CS2)=NC=C1																																																									
+MYOS_00424_00_01	ClC1=CC=CC(NC2=NC(C3=CC=CC=N3)=CS2)=N1	18.3	11.6																																																							
+MYOS_00425_00_01	ClC1=CC(NC2=NC(C3=CC=CC=N3)=CS2)=NC=C1	10.0	10.9																																																							
+MYOS_00426_00_01	ClC1=CN=C(NC2=NC(C3=CC=CC=N3)=CS2)C=C1	15.3	11.7																																																							
+MYOS_00427_00_01	CC1=CC(NC2=NC(C3=C(C=CC=C3)[N+]([O-])=O)=CS2)=NC=C1	96.5	102.5																																																							
+MYOS_00428_00_01	CC1=CC(NC2=NC(C3=CC([N+]([O-])=O)=CC=C3)=CS2)=NC=C1	123.5	91.2																																																							
+MYOS_00429_00_01	CC1=CC(NC2=NC(C3=CC=C(C=C3)[N+]([O-])=O)=CS2)=NC=C1	156.6	99.0																																																							
+MYOS_00430_00_01	C1=C(C(=NC=C2)C=C2)N=C(S1)NC(CCC1)CC1																																																									
+MYOS_00431_00_01																																																										
+MYOS_00432_00_01																																																										
+MYOS_00433_00_01																																																										
+MYOS_00434_00_01																																																										
+MYOS_00435_00_01																																																										
+MYOS_00436_00_01																																																										
+MYOS_00437_00_01																																																										
+MYOS_00438_00_01																																																										
+MYOS_00439_00_01																																																										
+MYOS_00440_00_01																																																										
+MYOS_00441_00_01	CCC1=CC=NC=C1.C/C(C)=C\CCC(C)=C																																																									
+MYOS_00442_00_01	O=C1C[C@@H](C)[C@@]2(C)C(CCC(C(C)=C)C2)=C1																																																									
+MYOS_00443_02_01	O=C1C(I)=CC2=C(C3=C(C(O[Na])=O)C(Cl)=C(Cl)C(Cl)=C3Cl)C4=CC(I)=C(O[Na])C(I)=C4OC2=C1I																																																									
+MYOS_00444_00_01	CC[P](CC)(CC)[Au]S[C@@H]([C@@H]1OC(C)=O)O[C@H](COC(C)=O)[C@@H](OC(C)=O)[C@H]1OC(C)=O																																																									
+MYOS_00445_00_01	CCC1=CC=[N]([Ru](Cl)Cl)C=C1.Cc2ccc(C(C)C)cc2.C/C(C)=C\CCC(C)=C																																																									
+MYOS_00446_00_01	BrC1=CC=C(C(C2=CN=CC=C2)(O)C3CCCCC3)C(F)=C1	12.0	10.8																																																							
+MYOS_00447_00_01	ClC(C=C1F)=CC=C1C(C2CCCCC2)(O)C3=CN=CC=C3	12.7	9.9																																																							
+MYOS_00448_00_01	OC(C1CCCCC1)(C2=CC=CC=C2)C3=CN=CC=C3	12.1	11.2																																																							
+MYOS_00449_00_01	OC(C1CCCCC1)(C2=CC=CC=C2F)C3=CN=CC=C3	9.9	11.1																																																							
+MYOS_00450_00_01	BrC1=CC=C(C(C2=CN=CC=C2)(O)C3CCCC3)C(F)=C1	11.3	10.4																																																							
+MYOS_00451_00_01	BrC(C=C1)=CC=C1C(C2CCCC2)(O)C3=CN=CC=C3	10.7	10.7																																																							
+MYOS_00452_00_01	ClC(C=C1F)=CC=C1C(C2CCCC2)(O)C3=CN=CC=C3	24.6	13.1																																																							
+MYOS_00453_00_01	OC(C1CCCC1)(C2=CC=CC=C2F)C3=CN=CC=C3	47.2	12.1																																																							
+MYOS_00454_00_01	OC(C1CCCC1)(C2=CC=CC=C2)C3=CN=CC=C3	33.6	13.0																																																							
+MYOS_00455_00_01	OC(C1=CC=CC=C1)(C2=CC=CC=C2F)C3=CN=CC=C3	23.4	12.3																																																							
+MYOS_00456_00_01	OC1=CC=C(Cl)C=C1C(NC2=CC=C(C(F)(F)F)C=C2)=O	24.3	13.1																																																							
+MYOS_00457_00_01	OC1=CC=C(Cl)C=C1C(NC2=CC=C(SC(F)(F)F)C=C2)=O	13.0	14.5																																																							
+MYOS_00458_00_01	OC1=CC=C(Cl)C=C1C(NC2=CC(S(F)(F)(F)(F)F)=CC=C2)=O	13.4	12.7																																																							
+MYOS_00459_00_01	OC1=CC=C(Cl)C=C1C(NC2=CC=C(S(F)(F)(F)(F)F)C=C2)=O	16.1	12.7																																																							
+MYOS_00460_04_01	CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Br-]	4.0	7.9																																																							
+MYOS_00461_04_01	C/C(C)=C\CC/C(C)=C/CCC1=CC=[N+](CCCCCCCCCCCCCCCC)C=C1.[Br-]	13.1	12.2																																																							
+MYOS_00462_04_01	CCCCCCCCCCCCCCCC[N+]1=CC=C(C)C=C1.[Br-]	5.0	18.4																																																							
+MYOS_00463_04_01	CCCCCCCCCCCCCCCC[N+]1=C(C)C=CC=C1.[Br-]	4.5	8.7																																																							
+MYOS_00464_04_01	COC(C(OC)=C1)=C(OC)C=C1/C=C/C2=CC=[N+](CCCCCCCCCCCCCCCC)C=C2.[Br-]	19.1	13.3																																																							
+MYOS_00465_04_01	COC(C([N+]([O-])=O)=C1)=CC=C1/C=C/C2=CC=[N+](CCCCCCCCCCCCCCCC)C=C2.[Br-]	67.1	89.3																																																							
+MYOS_00466_04_01	CN(C(C=C1)=CC=C1/C=C/C2=CC=[N+](CCCCCCCCCCCCCCCC)C=C2)C.[Br-]	25.4	56.9																																																							
+MYOS_00467_04_01	FC(C=C1)=CC=C1/C=C/C2=CC=[N+](CCCCCCCCCCCCCCCC)C=C2.[Br-]	14.2	27.3																																																							
+MYOS_00468_04_01	CN(C(C=C1OC)=CC=C1/C=C/C2=CC=[N+](CCCCCCCCCCCCCCCC)C=C2)C.[Br-]	38.4	22.8																																																							
+MYOS_00469_04_01	[][Fe][].CCCCCCCCCCCCCCCC[N+]1=CC=C(/C=C/c2cccc2)C=C1.[Br-].c3cccc3	116.9	152.6																																																							
+MYOS_00470_01_01																																																										
+MYOS_00471_01_01																																																										
+MYOS_00472_01_01																																																										
+MYOS_00473_01_01																																																										
+MYOS_00474_01_01																																																										
+MYOS_00475_01_01																																																										
+MYOS_00476_01_01																																																										
+MYOS_00477_01_01																																																										
+MYOS_00478_01_01																																																										
+MYOS_00479_01_01																																																										
+MYOS_00480_01_01																																																										
+MYOS_00481_01_01																																																										
+MYOS_00482_01_01																																																										
+MYOS_00483_01_01																																																										
+MYOS_00484_01_01																																																										
+MYOS_00485_01_01																																																										
+MYOS_00486_01_01																																																										
+MYOS_00487_01_01																																																										
+MYOS_00488_01_01																																																										
+MYOS_00489_01_01																																																										
+MYOS_00490_05_01																																																										
+MYOS_00491_01_01																																																										
+MYOS_00492_01_01	NC1=CC2=C(N=C(C=C/3)C(S2)=CC3=[N+](C)/C)C=C1C.[Cl-]																																																									
+MYOS_00493_01_01	C/[N+](C)=C(C=C/1)\C=CC1=C(C2=CC=C(N(C)C)C=C2)\C3=CC=C(N(C)C)C=C3.[Cl-]																																																									
+MYOS_00494_01_01	[NH2+]=C(C=C/1)C(C)=CC1=C(C2=CC=C(N)C=C2)\C3=CC=C(N)C=C3.[Cl-]																																																									
+MYOS_00495_00_01	OC1=C(N=CC=C2)C2=C([N+]([O-])=O)C=C1																																																									
+MYOS_00496_00_01	Cl[Ru]1[N]2=CC=CC3=C([N+]([O-])=O)C=CC(O1)=C32.CC(C)c4ccc(C)cc4																																																									
+MYOS_00497_00_01	ClC1=CC=C(O)C(C(NC2=CC=C(CC)C=C2)=O)=C1																																																									
+MYOS_00498_06_01	ClC1=CC=C([O-])C(C(NC2=CC=C(S(F)(F)(F)(F)F)C=C2)=O)=C1.[NH3+]CCO																																																									
+MYOS_00499_06_01	ClC1=CC=C([O-])C(C(NC2=CC=C(SC(F)(F)F)C=C2)=O)=C1.[NH3+]CCO																																																									
+MYOS_00500_00_01	OC1=C(C(C)(C)C)C=C(/C=C(C#N)/C#N)C=C1C(C)(C)C																																																									
+MYOS_00501_00_01	OC1=C(OC)C=CC(/C=C(C#N)/C2=CC=CS2)=C1																																																									
+MYOS_00502_00_01	OC1=C(O)C=CC(/C=C(C#N)/C(NCC2=CC=CC=C2)=O)=C1																																																									
+MYOS_00503_00_01	O=C1C2=C3C(N4C5=C3C=CC=C5)=C6C(C(C=CC=C7)=C7N6[C@]8(C)[C@H](OC)[C@H](NC)C[C@H]4O8)=C2CN1																																																									
+MYOS_00504_00_01	CN1C=NC2=C1C=C(C(NOCCO)=O)C(NC3=C(Cl)C=C(Br)C=C3)=C2F																																																									
+MYOS_00505_01_01	O=S(C1=C2C(C=NC=C2)=CC=C1)(N3CCCNCC3)=O.[ClH][H]Cl																																																									
+MYOS_00506_00_01	O=C(NC)C(C=CC=C1)=C1SC2=CC3=C(C=C2)C(/C=C/C4=CC=CC=N4)=NN3																																																									
+MYOS_00507_00_01	O=C1C2=CC=CC=C2C3=NNC4=CC=CC1=C34																																																									
+MYOS_00508_00_01																																																										
+MYOS_00509_00_01																																																										
+MYOS_00510_00_01	OC(C1=CC=C(Cl)C=C1)(C2=CC=CC=C2Br)C3=CN=CN=C3																																																									
+MYOS_00511_00_01	OC(C1=CC=C(Cl)C=C1)(C2=CC=C(Br)C=C2)C3=CN=CN=C3																																																									
+MYOS_00512_00_01	OC(C1=CC=C(Cl)C=C1)(C2=CC=C(C)C=C2)C3=CN=CN=C3																																																									
+MYOS_00513_00_01	OC(C1=CN=CN=C1)(C2=CN=CC=C2)C3=C(F)C=C(Br)C=C3																																																									
+MYOS_00514_00_01	OC(C1=CN=CN=C1)(C2=CN=CC=C2)C3=CC=C(Br)C=C3																																																									
+MYOS_00515_00_01	OC(C1=CN=CN=C1)(C2=CN=CC=C2)C3=C(F)C=C(Cl)C=C3																																																									
+MYOS_00516_00_01	OC(C1=CN=CN=C1)(C2=CN=CC=C2)C3=C(F)C=CC=C3																																																									
+MYOS_00517_00_01	FC(C=C(N1CCOCC1)C=C2)=C2C(N3CCN(C(OCC)=O)CC3)C4=CN=CC=C4																																																									
+MYOS_00518_00_01	FC1=CC=CC=C1C(C2=CN=CC=C2)(O)CC3=CC=CC=C3																																																									
+MYOS_00519_00_01	FC(C=C(N1CCCCC1)C=C2)=C2C(N3CCN(C(OCC)=O)CC3)C4=CN=CC=C4																																																									
+MYOS_00520_00_01	FC(C=C(N1CCN(C(OC(C)(C)C)=O)CC1)C=C2)=C2C(N3CCN(C(OCC)=O)CC3)C4=CN=CC=C4																																																									
+MYOS_00521_00_01	O=C(Cc1cscc1)Nc1nc(cc(cc2)Br)c2o1																																																									
+MYOS_00522_00_01	O=C(Cc1cscc1)Nc1nc(cc(cc2)Cl)c2o1																																																									
+MYOS_00523_00_01	C[C@H](CC1)CC[C@@H]1C(Nc1nc(cc(cc2)Br)c2o1)=O																																																									
+MYOS_00524_00_01	C[C@H](CC1)CC[C@@H]1C(Nc1nc(cc(cc2)Cl)c2o1)=O																																																									
+MYOS_00525_00_01	CC(C)[C@@H](C(Nc1nc(cc(cc2)Cl)c2o1)=O)NC(C)=O																																																									
+MYOS_00526_00_01	O=C(C1(CC(C2)C3)CC3CC2C1)Nc1nc(cc(cc2)Br)c2o1																																																									
+MYOS_00527_00_01	O=C(C1(CC(C2)C3)CC3CC2C1)Nc1nc(cc(cc2)Cl)c2o1																																																									
+MYOS_00528_00_01	O=C(C1COCC1)Nc1nc(cc(cc2)Br)c2o1																																																									
+MYOS_00529_00_01	O=C(C1COCC1)Nc1nc(cc(cc2)Cl)c2o1																																																									
+MYOS_00530_00_01	O=C(C1OCCC1)Nc1nc(cc(cc2)Br)c2o1																																																									
+MYOS_00531_00_01	O=C(C1OCCC1)Nc1nc(cc(cc2)Cl)c2o1																																																									
+MYOS_00532_00_01	FC1=CC=CC=C1NC2=NC(C3=CC=CC=N3)=CS2																																																									
+MYOS_00533_00_01	FC1=CC(NC2=NC(C3=CC=CC=N3)=CS2)=CC=C1																																																									
+MYOS_00534_00_01	FC(F)(F)C1=CC=CC=C1NC2=NC(C3=CC=CC=N3)=CS2																																																									
+MYOS_00535_00_01	C1(C2=CSC(NC3(C4)CC5CC4CC(C5)C3)=N2)=CC=CC=N1																																																									
+MYOS_00536_00_01	COC1=CC=C(NC2=NC(C3=CC=CC=N3)=CS2)N=C1																																																									
+MYOS_00537_00_01	FC1=CC=CC(NC2=NC(C3=CC=CC=N3)=CS2)=N1																																																									
+MYOS_00538_00_01	FC1=CN=C(NC2=NC(C3=CC=CC=N3)=CS2)C=C1																																																									
+MYOS_00539_00_01	CC1=CC=NC(NC2=NC(C3=CC(Cl)=CC=C3)=C(C)S2)=C1																																																									
+MYOS_00540_00_01	CC1=CC=NC(NC2=NC(C3=CC=C(C4=CC=CC=C4)C=C3)=CS2)=C1																																																									
+MYOS_00541_00_01	COC(C=N1)=CC=C1NC2=NC(C3=CC=C(C4=CC=CC=C4)C=C3)=CS2																																																									
+MYOS_00542_00_01	FC1=NC(NC2=NC(C3=CC=C(C4=CC=CC=C4)C=C3)=CS2)=CC=C1																																																									
+MYOS_00543_00_01	FC(C=N1)=CC=C1NC2=NC(C3=CC=C(C4=CC=CC=C4)C=C3)=CS2																																																									
+																																																										
+	CC1=CC=NC(NC2=NC(C3=CC(Cl)=CC=N3)=CS2)=C1																																																									
+	CC1=CC=NC(NC2=NC(C3=CC=C(Br)C=N3)=CS2)=C1																																																									
+	CC1=CC=NC(NC2=NC(C3=CC=CC(Br)=N3)=CS2)=C1																																																									
+	CC1=CC=NC(NC2=NC(C3=CC(C=CC=C4)=C4C=N3)=CS2)=C1																																																									
+	CC1=CC=NC(NC2=NC(C3=CC=C(C4=CC=CC=C4)C=N3)=CS2)=C1																																																									
+MYOS_00544_00_01	ClC1=CC=C(/C(CC2=CC=CN=C2)=N/OC)C(Cl)=C1																																																									
+MYOS_00545_00_01	ClC1=CC=C(/C(CC2=CC=CN=C2)=N\OC)C(Cl)=C1																																																									
+MYOS_00546_00_01	O=C(C1=C2NC=CS1(=O)=O)C3=C(NC=C3CCN)C2=O																																																									
+MYOS_00547_00_01	O=C(C1=C2NC=CS1(=O)=O)C3=C(NC=C3CCNC(OC(C)(C)C)=O)C2=O																																																									
+MYOS_00548_00_01	O=C(C1=C2C(CCNC(C)=O)=CN1)C(NC=CS3(=O)=O)=C3C2=O																																																									
+MYOS_0549_00_01	O=C(C1=C2C(CCNC(OC(C)(C)C)=O)=CN1)C(NCCS3(=O)=O)=C3C2=O																																																									
+MYOS_0550_00_01	O=C(C1=C2C(CCN)=CN1)C(NCCS3(=O)=O)=C3C2=O																																																									
+MYOS_0551_00_01	O=C(C1=C2NC=CS1(=O)=O)C3=C(NC=C3CCNC(C4=CC(C=CC=C5)=C5N4)=O)C2=O																																																									
+MYOS_0552_00_01	O=C(C1=C2NC=CS1(=O)=O)C3=C(NC=C3CCNC(C4=CC=CC=C4)=O)C2=O																																																									
+MYOS_0553_00_01	O=C(C1=C2NC=CS1(=O)=O)C3=C(NC=C3CCNC(NCCCC)=O)C2=O																																																									
+MYOS_0554_00_01	O=C(C1=C2NC=CS1(=O)=O)C3=C(NC=C3CCNC(NCC(OCC)=O)=O)C2=O																																																									
+MYOS_0555_00_01																																																										
+MYOS_0556_00_01	O=C(C1=C2NC=CS1(=O)=O)C3=C(NC=C3CCNC(N(OC)C)=O)C2=O																																																									
+MYOS_0557_00_01	[H][C@@]12NC(C3=C(C1=C[C@@H]([C@H]([C@H]2O)O)O)C=C4OCOC4=C3O)=O																																																									
+MYOS_0558_00_01	N=C(NC/1=O)NC1=C2C3=C(NC=C3)C(NCC/2)=O																																																									
+MYOS_0559_00_01	N=C(NC/1=O)NC1=C2C3=C(C(NCC/2)=O)NC(Br)=C3																																																									
+MYOS_0560_00_01	O=C1N2CCC[C@@](N3)2[C@@H](N=C3N)N4C1=CC(Br)=C4Br																																																									
+MYOS_0561_00_01	O=C1NC2=CC3=C(C4=C2C1=CC5=C4OCO5)C=CC=C3OC																																																									
+MYOS_0562_00_01																																																										
+MYOS_0563_00_01																																																										
+MYOS_0564_00_01																																																										
+MYOS_0565_00_01																																																										
+MYOS_0566_00_01																																																										
+MYOS_0567_00_01																																																										
+MYOS_0568_00_01																																																										
+MYOS_0569_00_01																																																										
+MYOS_0570_00_01																																																										
+MYOS_0571_00_01																																																										
+MYOS_0572_00_01																																																										
+MYOS_0573_00_01																																																										
+MYOS_0574_00_01																																																										
+MYOS_0575_00_01																																																										
+MYOS_0576_00_01																																																										
+MYOS_0577_00_01																																																										
+MYOS_0578_00_01																																																										
+MYOS_0579_00_01																																																										
+MYOS_0580_00_01																																																										
+MYOS_0581_00_01																																																										
+MYOS_0582_00_01																																																										
+MYOS_0583_00_01																																																										
+MYOS_0584_00_01																																																										
+MYOS_0585_00_01																																																										
+MYOS_0586_00_01																																																										
+MYOS_0587_00_01																																																										
+MYOS_0588_00_01	CON=C(CC1=CN=CC=C1)C2=CC=C(F)C=C2F																																																									
+MYOS_0589_00_01	ClC1=CC(Cl)=CC=C1/C(CC2=CC=CN=C2)=N\OCC3=CC=C(OCO4)C4=C3																																																									
+MYOS_0590_00_01																																																										
+CC1=CC(NC2=NC(C3=CC=C(N(=O)=O)C=C3)=CS2)=NC=C1																																																										
+MYOS_0591_00_01	ClC1=CC=C(C(Cl)=C1)C(CC2=C[N+](CC3=CC=C(F)C=C3F)=CC=C2)=NOCC4=CC=C(F)C=C4F																																																									
